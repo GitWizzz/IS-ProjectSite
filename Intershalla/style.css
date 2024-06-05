@@ -1,0 +1,140 @@
+/* Frame-1 CSS */
+/* .frame-1{
+    width: 1090px;
+    height: 60px;
+    margin-top: 40px;
+} */
+.nav-icon {
+    width: 106.18px;
+    height: 34.41px;
+}
+.nav-bar *{
+    font-family: "Noto Sans Display", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+}
+
+.nav-home {
+    color: #FF5555 !important;
+}
+
+
+
+.download {
+    line-height: 28px;
+    font-weight: 500;
+    color: white;
+    height: 60px;
+}
+
+.down-box {
+    height: 60px;
+    width: 180px;
+    border-radius: 1rem;
+    background-color: black;
+}
+
+/* Frame-2 CSS */
+
+.same-edge{
+    width: 1232px;
+    height: 600px;
+}
+
+.frame-2-1{
+    width: 500px; ;
+}
+.play-icon{
+    height: 29px;
+    width: 29px;
+}
+
+.finance-img{
+    width: 569px;
+    height: 357.74px;
+}
+
+.iphone-frame-1{
+    height:  732.14px;
+    width: 601.24px;
+    
+}
+
+/* Frame-3 CSS */
+
+.iphone-frame{
+    width: 640px;
+    height: 580px;
+}
+
+.feature{
+    color: #FF5555;
+    font-size: 18px;
+    font-family: "Noto Sans Display", sans-serif;
+}
+
+.text3{
+    width: 580px;
+    height: 464px;
+    align-self: stretch;
+    margin-top: 30px;
+}
+
+.frame-3-icon{
+    height: 48px;
+    width: 50px;
+}
+
+.text3-2{
+    width: 580px;
+    height: 250px;
+    align-self: stretch;
+    margin-top: 30px;
+}
+
+.person-icon{
+    width: 192px;
+    height: 40px;
+}
+
+.text3-3{
+    width: 442px;
+    height: 300px;
+    align-self: stretch;
+    margin-top: 40px;
+
+}
+
+.faq-color{
+    width: 535px;
+    height: 170px;
+    background-color: #FF5555;
+    color: white;
+    font-size: 28px;
+    border-radius: 10px;
+}
+
+.faq-no-color{
+    width: 500px;
+    height: 140px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+.text3-4{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.template{
+    width: 1300.49px;
+    height: 400.49px;
+    margin-top: 50px;
+}
+
+.icon{
+    width: 19px;
+    height: 19px;
+}
