@@ -22,4 +22,4 @@ To run this project locally, follow these steps:
 
 This project is also deployed on Netlify. You can view the live version at:
 
-[Netlify Link](https://your-project-name.netlify.app) 
+[Netlify Link](https://builtin.netlify.app) 
